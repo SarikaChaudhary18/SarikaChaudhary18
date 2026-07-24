@@ -22,3 +22,15 @@
 [![](https://komarev.com/ghpvc/?username=SarikaChaudhary18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
