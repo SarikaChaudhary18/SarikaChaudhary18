@@ -35,6 +35,7 @@
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
