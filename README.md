@@ -36,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -73,4 +75,12 @@
 | [0039-combination-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
