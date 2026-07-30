@@ -33,6 +33,7 @@
 | [0039-combination-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0137-single-number-ii) |
@@ -73,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +92,7 @@
 | [0039-combination-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
 ## Enumeration
 |  |
 | ------- |
