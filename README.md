@@ -40,6 +40,7 @@
 | [0137-single-number-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +80,7 @@
 | [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
