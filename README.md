@@ -34,6 +34,7 @@
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0051-n-queens) |
 ## Enumeration
 |  |
 | ------- |
