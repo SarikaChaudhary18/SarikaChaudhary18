@@ -142,4 +142,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0073-set-matrix-zeroes) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
