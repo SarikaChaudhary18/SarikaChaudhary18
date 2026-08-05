@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
@@ -98,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
