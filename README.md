@@ -35,6 +35,7 @@
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0073-set-matrix-zeroes) |
@@ -68,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
