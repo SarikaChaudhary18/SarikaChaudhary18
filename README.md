@@ -167,4 +167,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
