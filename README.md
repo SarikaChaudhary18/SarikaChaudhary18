@@ -60,6 +60,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -95,6 +97,7 @@
 | [0137-single-number-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
