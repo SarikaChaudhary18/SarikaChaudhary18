@@ -63,6 +63,7 @@
 | [0493-reverse-pairs](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -93,6 +94,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
