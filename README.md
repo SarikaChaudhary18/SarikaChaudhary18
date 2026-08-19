@@ -65,6 +65,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
