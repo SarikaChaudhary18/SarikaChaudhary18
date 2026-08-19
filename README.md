@@ -55,6 +55,7 @@
 | [0136-single-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0229-majority-element-ii) |
@@ -96,6 +97,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
