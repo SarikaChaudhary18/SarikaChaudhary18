@@ -9,8 +9,7 @@ int findMax(vector<int> &piles){
     return maxi;
 }
 long long CalculateTotalHours(vector<int> &piles,int speed){
-    long long totalH=0;
-    
+    long long totalH=0;   
     int n=piles.size();
     for(int i=0;i<n;i++){
      totalH += ((long long)piles[i] + speed - 1) / speed;
