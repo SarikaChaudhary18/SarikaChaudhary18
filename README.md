@@ -78,6 +78,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -208,6 +209,7 @@
 | [0048-rotate-image](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
 ## Algorithm X
 |  |
 | ------- |
