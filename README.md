@@ -78,6 +78,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
@@ -126,6 +127,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0054-spiral-matrix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
 ## Algorithm X
 |  |
