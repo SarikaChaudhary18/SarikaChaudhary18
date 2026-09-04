@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0031-next-permutation) |
@@ -277,6 +278,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0344-reverse-string) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
