@@ -287,6 +287,7 @@
 | [0242-valid-anagram](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
 ## Queue
 |  |
 | ------- |
@@ -295,4 +296,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
