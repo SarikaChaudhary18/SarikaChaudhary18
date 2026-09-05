@@ -165,6 +165,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0031-next-permutation) |
@@ -207,6 +208,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0119-pascals-triangle-ii) |
@@ -281,6 +283,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0125-valid-palindrome) |
@@ -310,4 +313,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
