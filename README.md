@@ -288,6 +288,7 @@
 | [0344-reverse-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -300,4 +301,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
