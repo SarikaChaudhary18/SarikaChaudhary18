@@ -42,6 +42,7 @@
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0054-spiral-matrix) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0205-isomorphic-strings) |
@@ -153,6 +155,7 @@
 | [0015-3sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0088-merge-sorted-array) |
@@ -289,6 +292,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0205-isomorphic-strings) |
