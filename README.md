@@ -210,6 +210,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -286,6 +287,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0242-valid-anagram) |
