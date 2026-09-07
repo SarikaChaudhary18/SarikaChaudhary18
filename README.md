@@ -221,6 +221,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0344-reverse-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
