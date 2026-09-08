@@ -114,6 +114,7 @@
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
