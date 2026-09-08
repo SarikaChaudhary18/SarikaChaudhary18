@@ -114,6 +114,7 @@
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
+| [3870-count-commas-in-range](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
