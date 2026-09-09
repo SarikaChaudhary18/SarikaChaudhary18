@@ -117,6 +117,7 @@
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3871-count-commas-in-range-ii) |
@@ -317,6 +318,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
