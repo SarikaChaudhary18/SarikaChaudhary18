@@ -316,6 +316,7 @@
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
@@ -333,10 +334,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
 | ------- |
