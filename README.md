@@ -83,6 +83,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -108,6 +109,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -373,4 +376,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
