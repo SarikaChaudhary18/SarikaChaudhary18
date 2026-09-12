@@ -83,6 +83,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3875-construct-uniform-parity-array-i) |
@@ -151,6 +152,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -236,6 +239,7 @@
 | [0152-maximum-product-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
