@@ -328,6 +328,7 @@
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -386,4 +388,20 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
