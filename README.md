@@ -197,6 +197,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0152-maximum-product-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -308,6 +310,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Queue
 |  |
 | ------- |
