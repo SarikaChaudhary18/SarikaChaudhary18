@@ -122,6 +122,7 @@
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0268-missing-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3870-count-commas-in-range) |
@@ -241,6 +242,7 @@
 | [0152-maximum-product-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
@@ -271,6 +273,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3904-smallest-stable-index-ii) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -408,4 +411,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
