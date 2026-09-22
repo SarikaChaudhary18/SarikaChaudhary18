@@ -119,6 +119,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0204-count-primes) |
@@ -399,6 +400,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 ## Rolling Hash
 |  |
