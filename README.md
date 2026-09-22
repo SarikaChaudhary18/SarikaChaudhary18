@@ -205,6 +205,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0046-permutations) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0118-pascals-triangle) |
@@ -327,6 +329,7 @@
 | [0008-string-to-integer-atoi](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0125-valid-palindrome) |
@@ -367,6 +370,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
