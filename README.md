@@ -81,6 +81,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
@@ -111,6 +112,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0645-set-mismatch) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3731-find-missing-elements) |
@@ -157,6 +159,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -282,6 +285,7 @@
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3904-smallest-stable-index-ii) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -382,6 +386,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
