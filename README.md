@@ -127,6 +127,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1922-count-good-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3871-count-commas-in-range-ii) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
 ## Rolling Hash
 |  |
