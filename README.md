@@ -84,6 +84,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3483-unique-3-digit-even-numbers) |
@@ -252,6 +253,7 @@
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/3524-find-x-value-of-array-i) |
@@ -274,6 +276,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2643-row-with-maximum-ones) |
 ## Algorithm X
 |  |
@@ -378,6 +381,7 @@
 | [0022-generate-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Manacher
 |  |
 | ------- |
