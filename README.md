@@ -329,6 +329,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -352,6 +353,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1392-longest-happy-prefix) |
@@ -379,6 +381,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -387,6 +390,7 @@
 | [0020-valid-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SarikaChaudhary18/SarikaChaudhary18/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
